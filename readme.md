@@ -5,4 +5,4 @@ The narrative has one historically accurate path from which inaccurate branching
 Some moments in the story are enhanced with imagery.
 Some moments are enhanced by conditionals that lead towards a different path an example is whether Henry seeks an annulment from Katherine of Aragon.
 The game tracks variables such as the success or failure of Henry's attempts to produce a male heir.
-The game may be accessed through this URL https://tahaalsheekh.github.io/index
+The game may be accessed through this URL https://tahaalsheekh.github.io/miniassignmentsindex
